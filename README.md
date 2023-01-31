@@ -12,35 +12,35 @@ Below is the schema diagram of the database architecture.
 
 Design Tools used:
 
-XAMPP
-SQLite
-DBeaver
-HTML
-CSS
-PHP
-Javascript
+XAMPP <br>
+SQLite <br>
+DBeaver <br>
+HTML <br>
+CSS <br>
+PHP <br>
+Javascript <br>
 
 
 
 Admin Module Features in the project are :
-Secure Login
-Home Page
-Manage Category List 
-Manage Product List 
-Regulate Order List 
-Regulate Customer List
-Manage Users List 
-Regulate Account Credentials 
-Logout 
+Secure Login <br>
+Home Page <br>
+Manage Category List <br>
+Manage Product List <br>
+Regulate Order List <br>
+Regulate Customer List <br>
+Manage Users List <br>
+Regulate Account Credentials  <br>
+Logout <br>
 
 
 Customer Module Features in the project are :
 
-Secure Login and Registration 
-List Search Products
-Add Product to Shopping Cart 
-Checkout 
-List all Orders View orders 
-Manage Account Credentials 
-Logout
+Secure Login and Registration <br>
+List Search Products <br>
+Add Product to Shopping Cart <br>
+Checkout <br>
+List all Orders View orders <br>
+Manage Account Credentials <br>
+Logout <br>
 
