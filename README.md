@@ -1,2 +1,1 @@
-# G-Mart
-The Online Grocery System
+# G-Mart | The Online Grocery System
