@@ -6,3 +6,41 @@ G-Mart provides user-friendly interface for people who want to buy groceries onl
 Below is the schema diagram of the database architecture.
 
 ![image](https://user-images.githubusercontent.com/48211558/215661837-91df13cc-1750-4dba-bce1-a16145a5937e.png)
+
+
+
+
+Design Tools used:
+
+XAMPP
+SQLite
+DBeaver
+HTML
+CSS
+PHP
+Javascript
+
+
+
+Admin Module Features in the project are :
+Secure Login
+Home Page
+Manage Category List 
+Manage Product List 
+Regulate Order List 
+Regulate Customer List
+Manage Users List 
+Regulate Account Credentials 
+Logout 
+
+
+Customer Module Features in the project are :
+
+Secure Login and Registration 
+List Search Products
+Add Product to Shopping Cart 
+Checkout 
+List all Orders View orders 
+Manage Account Credentials 
+Logout
+
