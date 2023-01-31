@@ -10,7 +10,7 @@ Below is the schema diagram of the database architecture.
 
 
 
-Design Tools used:
+<b> Design Tools used: </b> <br>
 
 XAMPP <br>
 SQLite <br>
@@ -22,7 +22,7 @@ Javascript <br>
 
 
 
-Admin Module Features in the project are :
+<b> Admin Module Features in the project are : </b> <br>
 Secure Login <br>
 Home Page <br>
 Manage Category List <br>
@@ -34,7 +34,7 @@ Regulate Account Credentials  <br>
 Logout <br>
 
 
-Customer Module Features in the project are :
+<b> Customer Module Features in the project are : </b> <br>
 
 Secure Login and Registration <br>
 List Search Products <br>
